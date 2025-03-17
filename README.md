@@ -7,9 +7,9 @@ The primary goal is to verify and visualize this core idea using current data.
 After the development based on the CRISP-DM process model, the core idea of Hayek should be communicated to the target group and its topicality should be emphasized.
 
 The following datasets are used for this purpose:
-- Index of Economic Freedom (Heritage Foundation, 2024)
-- GDP per capita of selected countries in US dollars (World Bank Group)
-- GDP per capita of selected countries in US dollars (World Bank Group)
-- World Innovation Index (World Intellectual Property Organization)
+- Index of Economic Freedom (<a href="https://www.heritage.org/index/pages/report" target="_blank">Heritage Foundation</a>)
+- GDP per capita of selected countries in US dollars (<a href="https://data.worldbank.org/indicator/NY.GDP.PCAP.CD" target="_blank">World Bank Group</a>)
+- GDP of selected countries in US dollars (<a href="https://data.worldbank.org/indicator/NY.GDP.MKTP.CD" target="_blank">World Bank Group</a>)
+- World Innovation Index (<a href="https://www.wipo.int/web-publications/global-innovation-index-2024/en/gii-2024-results.html" target="_blank">World Intellectual Property Organization</a>)
 
 See the Tableau public visualization: <a href="https://public.tableau.com/views/Visualization_Economic-Freedom/Story1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Tableau Public</a>
